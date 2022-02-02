@@ -8,7 +8,7 @@ i've used the <a href="https://api.spacex.land/graphql" >SpaceX API</a> to build
 ### Tech stach
 ```
 React
-Grapgql
+Graphql
 Apollo
 
 ```
